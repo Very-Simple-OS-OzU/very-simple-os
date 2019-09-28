@@ -62,8 +62,6 @@ Very Simple Operating System needs to be aware of a few things:
 
 For the sake of simplicity we make the assumption that applications gracefully exit before another one is called.
 
-#### VSOS.C
-
 We hold prog info in increments of 3 in an array called progInfo, which stores the 3 main components of programs in indexes of:
 
 1. Prog_name (from namelookup table)
