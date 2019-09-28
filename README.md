@@ -6,5 +6,6 @@ Aim of this project is to replicate the early modern operating systems on the lo
 We make the following assumptions:
  
  Applications gracefully exit after execution.
+ 
  Applications load in first-in-first-out methods.
  
