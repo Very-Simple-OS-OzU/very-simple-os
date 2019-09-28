@@ -1,1 +1,2 @@
-# Very_Simple_OS
+# VSOS ON NSSCPU
+VSOS on Not So Simple CPU
