@@ -9,7 +9,7 @@ We make the following assumptions:
 
 The simulator consists of 4 Python modules: Terminal client, MemoryManager, FlashMemory and Core Simulation.
 
-VSOS is written in the C language and compiled with VerySimpleCPU C compiler developed by Barış Aktemur and Deniz İskender.
+VSOS is written in the C language and compiled with VerySimpleCPU C compiler developed by Dr. Barış Aktemur and Deniz İskender.
 
 #### Terminal Class
 Terminal module runs on a different thread that continuously reads input from the user.
