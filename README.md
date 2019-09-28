@@ -78,6 +78,6 @@ incompletely transferred.
 
 Very simple CPU compiler is not available online at the moment.
 
-###### Thank you for your attention.
-</br>
+Thank you for your attention.
+
 Doğa Yılmaz & Berk Buzcu
