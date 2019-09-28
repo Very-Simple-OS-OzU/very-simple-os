@@ -1,7 +1,7 @@
 ## VSOS ON NSSCPU
 Very Simple OS on Not So Simple CPU
 
-Aim of this project is to replicate the early modern operating systems on the locally developed Very Simple CPU® (H. Fatih Uğurdağ)
+The aim of this project is, to replicate early modern operating systems and develop a minimal OS which runs on the Very Simple CPU developed in Ozyegin University by Dr. H. Fatih Uğurdağ.
 
 We make the following assumptions:
  * Applications gracefully exit after execution.
@@ -79,3 +79,5 @@ incompletely transferred.
 Very simple CPU compiler is not available online at the moment.
 
 ###### Thank you for your attention.
+</br>
+Doğa Yılmaz & Berk Buzcu
