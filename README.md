@@ -76,6 +76,6 @@ Originally the Very Simple CPU C Compiler is not meant for application developme
 * Due to the reason above stack-frames are often left-out or
 incompletely transferred.
 
-VERY simple CPU compiler is not available online at the moment.
+Very simple CPU compiler is not available online at the moment.
 
 ###### Thank you for your attention.
