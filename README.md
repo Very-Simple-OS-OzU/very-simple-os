@@ -7,3 +7,6 @@ We make the following assumptions:
  -Applications gracefully exit after execution.
  -Applications load in first-in-first-out methods.
  
+The simulator consists of 4 Python modules: Terminal client, MemoryManager, FlashMemory and Core Simulation.
+
+For mode info visit the documentation of the project.
